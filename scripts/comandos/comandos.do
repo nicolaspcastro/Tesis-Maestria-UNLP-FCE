@@ -1,0 +1,5 @@
+qui include "$path_scripts/comandos/comando_atk"
+qui include "$path_scripts/comandos/comando_cuantiles"
+qui include "$path_scripts/comandos/comando_fgt"
+qui include "$path_scripts/comandos/comando_gini"
+qui include "$path_scripts/comandos/comando_theil"
